@@ -1,61 +1,34 @@
 # 🧙‍♂️ The Grimoire of Code
 
-**Welcome, wanderer.**  
-You’ve just opened the *Grimoire of Code*, a sacred collection of spells, snippets, tools, and wisdom curated by [@coding.mystic](https://www.instagram.com/coding.mystic).
+Welcome to the sacred archive of developer & Software ingineer knowledge.
 
-This repository gathers magical code incantations, useful tricks, and powerful tools for modern developers.
+This is the central **Codex** where you’ll find all my spells, tools, snippets and coding rituals, organized by theme and language.
 
 ---
 
-## 📜 What's inside
+## 📚 Available Grimoires
 
-```bash
-The-Grimoire-of-Code/
-├── HTML/               # UI spells and layout rituals
-├── CSS/                # Styling incantations
-├── CSS-Tailwind/       # Tailwind spells & utilities
-├── JavaScript/         # Logic magic & front-end effects
-├── React/              # Components of power
-├── Python/             # AI rituals and automation scrolls
-├── C/                  # Low-level enchantments
-├── C++/                # Performance potions
-├── Bash/               # Terminal tricks & automation spells
-├── AI-Prompts/         # Prompt engineering knowledge
-├── Tools.md            # Magical tools & dev artifacts
-└── README.md           # You are here
-```
+| 🧱 Section | Access the Spells |
+|-----------|--------------------|
+| 🧙 HTML & CSS | [Open Grimoire](https://github.com/codingmystic/grimoire-html-css) |
+| 🔮 JavaScript | [Open Grimoire](https://github.com/codingmystic/grimoire-js) |
+
 
 ---
 
 ## 🔮 Purpose
 
-To help developers of all levels:
+> “A well-organized spellbook is the secret weapon of every great sorcerer.”
 
-- Learn powerful code patterns (a.k.a. "spells")
-- Discover useful tools and resources
-- Grow their skills through small, impactful examples
-- Explore the magical side of development
-
----
-
-## 📦 Full Code Access
-
-Each post from [Instagram Reels](https://www.instagram.com/coding.mystic) is linked to a matching folder or snippet in this grimoire.  
-➡️ **All full codes live here.** Feel free to explore, copy, and learn.
+- 📦 All full code snippets from Reels
+- 🧪 Dev tricks, effects, animations, tools
+- 📜 Easy to explore, easy to copy
+- 💥 Updated daily with new spells
 
 ---
 
-## 🧙 About Me
-
-I’m [@coding.mystic](https://www.instagram.com/coding.mystic) — a masked developer, fullstack sorcerer, and AI explorer.  
-I share spells, tools, and dev rituals daily to help you level up with code.
-
----
-
-## 🌀 Join the Circle
-
-📲 Follow the daily spells on [Instagram](https://www.instagram.com/coding.mystic)  
-🧠 Access free resources: *Coming soon...*
+📲 Follow the ritual on [Instagram → @coding.mystic](https://www.instagram.com/coding.mystic)  
+📦 Explore the source of magic → [Main GitHub Repos](https://github.com/codingmystic)
 
 ---
 
